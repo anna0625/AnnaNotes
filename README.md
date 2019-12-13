@@ -20,9 +20,9 @@ By the way, I am a college student, so <font class="highlight">if there is anyth
 * ### Mathematics
   * Linear Algebra
     * Vectors and Space
-      * Vector dot and cross products
-        * Vector dot product and vector length
-        * Proving vector dot product properities
+      - Vector dot and cross products
+        - Vector dot product and vector length
+        - Proving vector dot product properities
 
 * ### Algorithms
   * Binary Search
