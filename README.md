@@ -1,9 +1,9 @@
 ## Welcome to Anna's Notes
 
 Here will be posted a lot of articles about Information Technology what I have been learning and you should know before starting your IT life.
-By the way, I am a college student, so if there is any something wrong, please send my email (anna860625@gmail.com) or leave a comment to let me know. I will appreciate you so much! Thank you and welcome again!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By the way, I am a college student, so if there is any something wrong, please send my email (<anna860625@gmail.com>) or leave a comment to let me know. I will appreciate you so much! Thank you and welcome again!
+
 
 ### Books
 
