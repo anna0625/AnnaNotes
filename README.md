@@ -21,7 +21,7 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 ## Contents
 
 * ### Mathematics
-    <font class="highlight2">I am learning from Khan Academy.</font>
+    <font class="highlight2">Its references are from Khan Academy.</font>
     * Linear Algebra
       * Vectors and Space
         * Vector dot and cross products
@@ -29,13 +29,13 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
           * Proving vector dot product properities
 
 * ### Algorithms
-    <font class="highlight2">I am learning from the book called "grokking algorithms".</font>
+    <font class="highlight2">The most of references are from the book called "grokking algorithms".</font>
     * Search
       * Binary Search
       * Selection Search
 
 * ### Programming languages
-    <font class="highlight2">It doesn't include all of the syntax. It just my note of which I thought the epecsial.</font>
+    <font class="highlight2">It does not include all of the syntax. It just my note of which I thought the epecsial.</font>
     * [Python Notebook](programming_languages/Python.md)
 
 * ### Articles
