@@ -1,11 +1,29 @@
+<style>
+.highlight{
+    color: #EAC100;
+}
+</style>
+
 ## Welcome to Anna's Notes
 
 Here will be posted a lot of articles about Information Technology what I have been learning and you should know before starting your IT life.
 
-By the way, I am a college student, so if there is any something wrong, please send my email (<anna860625@gmail.com>) or leave a comment to let me know. I will appreciate you so much! Thank you and welcome again!
+By the way, I am a college student, so <font class="highlight">if there is any something wrong, please send my email (<anna860625@gmail.com>) or leave a comment to let me know.</font> I will appreciate you so much! Thank you and welcome again!
 
 
-### Books
+### Mathematics
+###### I am learning from Khan Academy.
+* Linear Algebra
+
+### Algorithms
+###### I am learning from the book named grokking algorithms.
+* Binary Search
+
+### Articles
+###### Here is just about my personal point of views of many different topics. Please be kind.
+* Coming Soon
+<!--
+### Python
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -36,3 +54,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
