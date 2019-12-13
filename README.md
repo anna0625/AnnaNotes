@@ -22,6 +22,7 @@ By the way, I am a college student, so <font class="highlight">if there is any s
 ### Articles
 ###### Here is just about my personal point of views of many different topics. Please be kind.
 * Coming Soon
+
 <!--
 ### Python
 
