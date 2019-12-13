@@ -32,7 +32,7 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 
 * ### Programming languages
     <font class="highlight2">It doesn't include all of the syntax. It just my note of which I thought the epecsial.</font>
-    * Python Notebook
+    * [Python Notebook](programming_languages/Python.md)
 
 * ### Articles
     <font class="highlight2">Here is just about my personal point of views of many different topics. Please be kind.</font>
