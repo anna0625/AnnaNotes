@@ -18,7 +18,7 @@ By the way, I am a college student, so <font class="highlight">if there is anyth
 ## Contents
 
 * ### Mathematics
-  * Linear Algebra
+  1. Linear Algebra
     1. Vectors and Space
       1. Vector dot and cross products
         1. Vector dot product and vector length
