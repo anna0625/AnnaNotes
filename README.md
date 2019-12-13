@@ -18,8 +18,9 @@ By the way, I am a college student, so <font class="highlight">if there is any s
 * ### Mathematics
   * Linear Algebra
     * Vectors and Space
-      * Vector dot and cross products
+      a. Vector dot and cross products
         1. Vector dot product and vector length
+        2. Proving vector dot product properities
 
 * ### Algorithms
   * Binary Search
@@ -27,7 +28,7 @@ By the way, I am a college student, so <font class="highlight">if there is any s
 * ### Articles
     <font class="highlight">Here is just about my personal point of views of many different topics. Please be kind.</font>
 
-    #### <font class="commingson">Coming Soon</font>
+    <font class="commingson">Coming Soon</font>
 
 <!--
 ### Python
