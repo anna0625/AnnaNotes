@@ -18,11 +18,11 @@ By the way, I am a college student, so <font class="highlight">if there is anyth
 ## Contents
 
 * ### Mathematics
-  1. Linear Algebra
-    1. Vectors and Space
-      1. Vector dot and cross products
-        1. Vector dot product and vector length
-        2. Proving vector dot product properities
+  * Linear Algebra
+    * Vectors and Space
+      * Vector dot and cross products
+        * Vector dot product and vector length
+        * Proving vector dot product properities
 
 * ### Algorithms
   * Binary Search
