@@ -28,7 +28,7 @@ By the way, I am a college student, so <font class="highlight">if there is any s
 * ### Articles
     <font class="highlight">Here is just about my personal point of views of many different topics. Please be kind.</font>
 
-    #### <font class="comingsoon">Coming Soon</font>
+    <font class="comingsoon" h4>Coming Soon</font>
 
 <!--
 ### Python
