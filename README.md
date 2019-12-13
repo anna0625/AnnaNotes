@@ -18,7 +18,7 @@ By the way, I am a college student, so <font class="highlight">if there is any s
 * ### Mathematics
   * Linear Algebra
     * Vectors and Space
-      1. Vector dot and cross products
+      * Vector dot and cross products
         * Vector dot product and vector length
         * Proving vector dot product properities
 
