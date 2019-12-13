@@ -2,6 +2,9 @@
 .highlight{
     color: #EAC100;
 }
+.comingsoon{
+    color: red;
+}
 </style>
 
 # Anna's Notes
@@ -12,16 +15,19 @@ By the way, I am a college student, so <font class="highlight">if there is any s
 
 ## Contents
 
-### Mathematics
-1. Linear Algebra
-   1. Vector
+* ### Mathematics
+  1. Linear Algebra
+    * Vectors and Space
+      1. Vector dot and cross products
+        * Vector dot product and vector length
 
-### Algorithms
-1. Binary Search
+* ### Algorithms
+  1. Binary Search
 
-### Articles
-<font class="highlight">Here is just about my personal point of views of many different topics. Please be kind.</font>
-Coming Soon
+* ### Articles
+    <font class="highlight">Here is just about my personal point of views of many different topics. Please be kind.</font>
+
+    #### <font class="commingson">Coming Soon</font>
 
 <!--
 ### Python
