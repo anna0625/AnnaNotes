@@ -1,9 +1,1 @@
 theme: jekyll-theme-minimal
-
-lang: "en"
-author: "Anna"
-title: "{ Anna's Notes }"
-description: "This is my personal blog for me to record what I am learning step by step."
-#keywords: "AnnaCheng, personal, jekyll, theme"
-#favicon: "/img/favicon.ico"
-me-img: "./anna.jpg"
