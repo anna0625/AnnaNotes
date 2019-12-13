@@ -2,6 +2,9 @@
 .highlight{
     color: #EAC100;
 }
+.highlight2{
+    color: #AFAF61;
+}
 .comingsoon{
     color: red;
 }
@@ -18,17 +21,21 @@ By the way, I am a college student, so <font class="highlight">if there is anyth
 ## Contents
 
 * ### Mathematics
-  * Linear Algebra
-    * Vectors and Space
-      * Vector dot and cross products
-        * Vector dot product and vector length
-        * Proving vector dot product properities
+    * Linear Algebra
+      * Vectors and Space
+        * Vector dot and cross products
+          * Vector dot product and vector length
+          * Proving vector dot product properities
 
 * ### Algorithms
-  * Binary Search
+    * Binary Search
+
+* ### Programming languages
+    <font class="highlight2">It doesn't include all of the syntax. It just my note of which I thought the epecsial.</font>
+    * Python Notebook
 
 * ### Articles
-    <font class="highlight">Here is just about my personal point of views of many different topics. Please be kind.</font>
+    <font class="highlight2">Here is just about my personal point of views of many different topics. Please be kind.</font>
     <br/>
     <h4><font class="comingsoon">Coming Soon</font></h4>
 
