@@ -39,9 +39,7 @@
         {% endif %}
       </header>
       <section>
-
-        {{ content }}
-
+        {% if site.github.is_project_page %}
         <h4> Contents </h4>
             <ul>
                 <li><a href="https://anna0625.github.io/AnnaNotes/">Introduction</a></li>
