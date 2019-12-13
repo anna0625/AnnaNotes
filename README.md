@@ -13,16 +13,17 @@ By the way, I am a college student, so <font class="highlight">if there is any s
 ## Contents
 
 ### Mathematics
-    I am learning from Khan Academy.
-    1. Linear Algebra
+#### I am learning from Khan Academy.
+1. Linear Algebra
+   1. Vector
 
 ### Algorithms
-    I am learning from the book named grokking algorithms.
-    1. Binary Search
+#### I am learning from the book named grokking algorithms.
+1. Binary Search
 
 ### Articles
-    Here is just about my personal point of views of many different topics. Please be kind.
-    Coming Soon
+#### Here is just about my personal point of views of many different topics. Please be kind.
+Coming Soon
 
 <!--
 ### Python
