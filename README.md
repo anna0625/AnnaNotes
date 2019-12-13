@@ -16,13 +16,13 @@ By the way, I am a college student, so <font class="highlight">if there is any s
 ## Contents
 
 * ### Mathematics
-  1. Linear Algebra
+  * Linear Algebra
     * Vectors and Space
-      1. Vector dot and cross products
-        * Vector dot product and vector length
+      * Vector dot and cross products
+        1. Vector dot product and vector length
 
 * ### Algorithms
-  1. Binary Search
+  * Binary Search
 
 * ### Articles
     <font class="highlight">Here is just about my personal point of views of many different topics. Please be kind.</font>
