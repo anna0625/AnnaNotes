@@ -8,26 +8,24 @@
 
 Here will be posted a lot of articles about Information Technology what I have been learning and you should know before starting your IT life.
 
-By the way, I am a college student, so <font class="highlight">if there is any something wrong, please send my email (</font><anna860625@gmail.com><font class="highlight">) or leave a comment to let me know.</font> I will appreciate you so much! Thank you and welcome again!
+By the way, I am a college student, so <font class="highlight">if there is any something wrong, please send my email (</font> <anna860625@gmail.com> <font class="highlight">) or leave a comment to let me know.</font> I will appreciate you so much! Thank you and welcome again!
 
 ## Contents
 
-### Mathematics
+    ### Mathematics
+        I am learning from Khan Academy.
 
-I am learning from Khan Academy.
+        1. Linear Algebra
 
-1. Linear Algebra
+    ### Algorithms
+        I am learning from the book named grokking algorithms.
+        1. Binary Search
 
-### Algorithms
+    ### Articles
 
-I am learning from the book named grokking algorithms.
+    Here is just about my personal point of views of many different topics. Please be kind.
 
-1. Binary Search
-
-### Articles
-
-Here is just about my personal point of views of many different topics. Please be kind.
-Coming Soon
+        Coming Soon
 
 <!--
 ### Python
