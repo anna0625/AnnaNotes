@@ -12,7 +12,7 @@ Welcome to my notebook!
 
 Here will be posted a lot of articles about Information Technology what I have been learning and you should know before starting your IT life. There are many sources for me to learn, such as Khan Academy, the book named grokking algorithms and so on.
 
-By the way, I am a college student, so <font class="highlight">if there is any something wrong, please send my email (</font> <anna860625@gmail.com> <font class="highlight">) or leave a comment to let me know.</font> I will appreciate you so much! Thank you and welcome again!
+By the way, I am a college student, so <font class="highlight">if there is anything wrong, please send my email (</font> <anna860625@gmail.com> <font class="highlight">) or leave a comment to let me know.</font> I will appreciate you so much! Thank you and welcome again!
 
 
 ## Contents
