@@ -26,9 +26,9 @@ By the way, I am a college student, so <font class="highlight">if there is any s
   * Binary Search
 
 * ### Articles
-    <font class="highlight">Here is just about my personal point of views of many different topics. Please be kind.</font>
+    <font class="highlight">Here is just about my personal point of views of many different topics. Please be kind.</font> <br/>
 
-    <font class="comingsoon" h4>Coming Soon</font>
+    <h4><font class="comingsoon">Coming Soon</font></h4>
 
 <!--
 ### Python
