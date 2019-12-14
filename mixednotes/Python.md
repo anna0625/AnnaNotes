@@ -29,7 +29,7 @@ I've been learning Python from <font class="highlight1">Code with Mosh</font>, i
 * local variables
 
 In Python, we don't have block level scope. No matter we define a variable in a function,
-it is always `accessible` in that function after it is defined. So it is about local variables.
+it is always `accessible` in that function after it is defined. So it is about `local variables`.
 ```python
 def greet():
     if True:
@@ -39,9 +39,8 @@ def greet():
 
 greet()
 ```
-```python
-OUTPUT : Hi, the beautiful world!
-```
+**OUTPUT :** ```Hi, the beautiful world!```
+
 
 * global variables
 
