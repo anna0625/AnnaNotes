@@ -25,31 +25,32 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 ---
 
 * ### Mathematics
+    <font class="highlight2">Its references are from Khan Academy.</font>
+
     * Linear Algebra
       * Vectors and Space
         - Vector dot and cross products
           - Vector dot product and vector length
           - Proving vector dot product properities
 
-    <font class="highlight2">Its references are from Khan Academy.</font>
-
 * ### Algorithms
+    <font class="highlight2">Most of references are from the book called "grokking algorithms".</font>
+
     * Search
        * Binary Search
        * Selection Search
-    
-    <font class="highlight2">The most of references are from the book called "grokking algorithms".</font>
 
 * ### MixedNotes
+    <font class="highlight2">It's noted of what I thought the epecsial.</font>
+
     * [Python Notebook](mixednotes/python.md)
     * [Git Notebook](mixednotes/git.md)
-    
-    <font class="highlight2">It just my note of which I thought the epecsial.</font>
 
 * ### Articles
+    <font class="highlight2">Please be kind. Here's my personal point of views of different topics and books' reviews.</font>
+
     * <h4><font class="comingsoon">Coming Soon</font></h4>
     
-    <font class="highlight2">Here is just about my personal point of views of many different topics. Please be kind.</font>
 
 <!--
 ### Python
