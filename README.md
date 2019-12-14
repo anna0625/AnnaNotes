@@ -12,6 +12,7 @@
 
 ## Hi, the Beautiful World!
 ---
+
 Welcome to my notebook!
 
 Here will be posted a lot of articles about Information Technology what I have been learning and you should know before starting your IT life.
@@ -22,6 +23,7 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 
 ## Contents
 ---
+
 * ### Mathematics
     * Linear Algebra
       * Vectors and Space
@@ -39,8 +41,8 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
     - <font class="highlight2">The most of references are from the book called "grokking algorithms".</font>
 
 * ### MixedNotes
-    * [Python Notebook](mixednotes/Python.md)
-
+    * [Python Notebook](mixednotes/python.md)
+    * [Git Notebook](mixednotes/git.md)
     - <font class="highlight2">It just my note of which I thought the epecsial.</font>
 
 * ### Articles
