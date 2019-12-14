@@ -36,6 +36,9 @@ def greet():
         message = "Hi, the beautiful world!"
     print(message)
 ```
+```output
+Hi, the beautiful world!
+```
 
 * global variables
 
