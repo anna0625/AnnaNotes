@@ -35,9 +35,12 @@ def greet():
     if True:
         message = "Hi, the beautiful world!"
     print(message)
+
+
+greet()
 ```
-```output
-Hi, the beautiful world!
+```python
+OUTPUT : Hi, the beautiful world!
 ```
 
 * global variables
