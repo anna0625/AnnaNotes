@@ -21,7 +21,7 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 ## Contents
 
 * ### Mathematics
-    <font class="highlight2">Its references are from Khan Academy.</font>
+<font class="highlight2">Its references are from Khan Academy.</font>
     * Linear Algebra
       * Vectors and Space
         * Vector dot and cross products
@@ -29,17 +29,17 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
           * Proving vector dot product properities
 
 * ### Algorithms
-    <font class="highlight2">The most of references are from the book called "grokking algorithms".</font>
+<font class="highlight2">The most of references are from the book called "grokking algorithms".</font>
     * Search
-      * Binary Search
-      * Selection Search
+       * Binary Search
+       * Selection Search
 
 * ### MixedNotes
-    <font class="highlight2">It just my note of which I thought the epecsial.</font>
+<font class="highlight2">It just my note of which I thought the epecsial.</font>
     * [Python Notebook](mixednotes/Python.md)
 
 * ### Articles
-    <font class="highlight2">Here is just about my personal point of views of many different topics. Please be kind.</font>
+<font class="highlight2">Here is just about my personal point of views of many different topics. Please be kind.</font>
     <br/>
     * <h4><font class="comingsoon">Coming Soon</font></h4>
 
