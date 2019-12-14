@@ -19,6 +19,8 @@ I've been learning Python from <font class="highlight1">Code with Mosh</font>, i
 
 ### Categories
 * [Python Basic](#python-basic)
+  * local variables
+  * global variables
 * [Data Structures](#data-structures)
 * Exceptions
 
