@@ -1,7 +1,7 @@
-## Python
+# Python NoteBook
 ---
 
-### Data Structures
+## Data Structures
 
 ```python
 print("hello world!")
