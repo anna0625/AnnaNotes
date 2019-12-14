@@ -35,8 +35,8 @@ def greet():
     if True:
         message = "Hi, the beautiful world!"
     print(message)
-
-
+# remember to space two lines
+# remember to space two lines
 greet()
 
 # OUTPUT : Hi, the beautiful world!
@@ -48,7 +48,9 @@ greet()
 message = "Hello"
 
 def greet():
-    message = "Hi" # It created a new local variable here.
+    message = "Hi" 
+    # It created a new local variable here.
+
 
 greet()
 print(message)
@@ -61,7 +63,8 @@ statment, it is a bad practice because this can create a side of effect in other
 message = "Hello"
 
 def greet():
-    global message = "Hi" # It created a new local variable here.
+    global message = "Hi"
+
 
 greet()
 print(message)
