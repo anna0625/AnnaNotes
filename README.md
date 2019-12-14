@@ -41,7 +41,7 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
        * Selection Search
 
 * ### MixedNotes
-    <font class="highlight2">Obviously, they're notes.</font>
+    <font class="highlight2">Obviously, they are notes.</font>
 
     * [Python Notebook](mixednotes/python.md)
     * [Git Notebook](mixednotes/git.md)
