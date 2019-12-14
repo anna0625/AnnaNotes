@@ -11,6 +11,9 @@
 </style>
 
 ## Hi! The Beautiful World!
+
+---
+
 Welcome to my notebook!
 
 Here will be posted a lot of articles about Information Technology what I have been learning and you should know before starting your IT life.
