@@ -27,24 +27,24 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
           * Vector dot product and vector length
           * Proving vector dot product properities
 
-    <font class="highlight2">Its references are from Khan Academy.</font>
+    - <font class="highlight2">Its references are from Khan Academy.</font>
 
 * ### Algorithms
     * Search
        * Binary Search
        * Selection Search
 
-    <font class="highlight2">The most of references are from the book called "grokking algorithms".</font>
+    - <font class="highlight2">The most of references are from the book called "grokking algorithms".</font>
 
 * ### MixedNotes
     * [Python Notebook](mixednotes/Python.md)
 
-    <font class="highlight2">It just my note of which I thought the epecsial.</font>
+    - <font class="highlight2">It just my note of which I thought the epecsial.</font>
 
 * ### Articles
     * <h4><font class="comingsoon">Coming Soon</font></h4>
 
-    <font class="highlight2">Here is just about my personal point of views of many different topics. Please be kind.</font>
+    - <font class="highlight2">Here is just about my personal point of views of many different topics. Please be kind.</font>
 
 <!--
 ### Python
