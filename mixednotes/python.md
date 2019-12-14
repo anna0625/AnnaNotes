@@ -103,11 +103,13 @@ print(message)
 
 # OUTPUT : Hi
 ```
+
 ## Data Structures
 ---
 
-Here is 
+### List
 
+* List Unpacking
 ```python
 print("hello world!")
 ```
