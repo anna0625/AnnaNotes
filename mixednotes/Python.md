@@ -14,8 +14,8 @@
 ---
 
 Stay here or [Go Back to Home Page](../README.md).<br/>
+It doesn't include all syntaxs here, if you'd like to know more, you can [check here](https://codewithmosh.com/), <font class="highlight1">Code with Mosh</font> which I've learning from.
 If you'd like to know the vocabulary about programming, please [check here](https://hackmd.io/@s4y0wTjhTAipbBv-m9yryg/rJTNZBXaH).
-I've been learning Python from <font class="highlight1">Code with Mosh</font>, if you are interested in it, you can [check here](https://codewithmosh.com/).
 
 ### Categories
 * [Python Basic](#python-basic)
