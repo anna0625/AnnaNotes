@@ -23,9 +23,9 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 * ### Mathematics
     * Linear Algebra
       * Vectors and Space
-        * Vector dot and cross products
-          * Vector dot product and vector length
-          * Proving vector dot product properities
+        - Vector dot and cross products
+          - Vector dot product and vector length
+          - Proving vector dot product properities
 
     - <font class="highlight2">Its references are from Khan Academy.</font>
 
