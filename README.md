@@ -10,7 +10,7 @@
 }
 </style>
 
-## Hi! The Beautiful World!
+## Hi, the Beautiful World!
 ---
 Welcome to my notebook!
 
