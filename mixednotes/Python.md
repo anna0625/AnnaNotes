@@ -14,7 +14,7 @@
 ---
 
 Stay here or [Go Back to Home Page](../README.md).<br/>
-It doesn't include all syntaxs here, if you'd like to know more, you can [check here](https://codewithmosh.com/), <font class="highlight1">Code with Mosh</font> which I've learning from.
+It doesn't include all syntaxs here, if you'd like to know more, you can check <font class="highlight1"><a herf="https://codewithmosh.com/">Code with Mosh</a></font>, which I've learning from.
 If you'd like to know the vocabulary about programming, please [check here](https://hackmd.io/@s4y0wTjhTAipbBv-m9yryg/rJTNZBXaH).
 
 ### Categories
