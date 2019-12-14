@@ -55,6 +55,20 @@
             {% if site.github.is_project_page %}
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
             {% endif %}
+            <p id="live"></p>
+            <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+            <script>
+                $.ajax({ 
+                    url:'https://api.twitch.tv/kraken/streams/DailyMafia',
+                    dataType:'json',
+                    success:function(stream) {
+                document.getElementById("live").innerHTML="CURRENTLY LIVE WITH ".concat(parseInt(stream.stream.viewers), " VIEWERS.");
+                    },
+                    error:function() {
+                document.getElementById("live").innerHTML="CURRENTLY OFFLINE.";
+                    }
+                });
+            </script>
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         </footer>
         </div>
