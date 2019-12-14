@@ -38,13 +38,36 @@ def greet():
 
 
 greet()
-```
-**OUTPUT :** ```Hi, the beautiful world!```
 
+# OUTPUT : Hi, the beautiful world!
+```
 
 * global variables
 
+```python
+message = "Hello"
 
+def greet():
+    message = "Hi" # It created a new local variable here.
+
+greet()
+print(message)
+
+# OUTPUT : Hello
+```
+So, how to modify the value of global varible inside of a function? But avoid using the global
+statment, it is a bad practice because this can create a side of effect in other functions.
+```python
+message = "Hello"
+
+def greet():
+    global message = "Hi" # It created a new local variable here.
+
+greet()
+print(message)
+
+# OUTPUT : Hi
+```
 ## Data Structures
 ---
 
