@@ -11,18 +11,17 @@
 </style>
 
 ## Hi! The Beautiful World!
-
 ---
-
 Welcome to my notebook!
 
 Here will be posted a lot of articles about Information Technology what I have been learning and you should know before starting your IT life.
 
 By the way, I am a college student, so <font class="highlight1">if there is anything wrong, please send me an email (</font> <anna860625@gmail.com> <font class="highlight1">) or leave a comment to let me know.</font> I will appreciate you so much! Thank you and welcome again!
 
+<br/>
 
 ## Contents
-
+---
 * ### Mathematics
     * Linear Algebra
       * Vectors and Space
