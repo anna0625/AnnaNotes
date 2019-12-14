@@ -14,7 +14,7 @@
 ---
 
 Stay here or [Go Back to Home Page](../index.md).<br/>
-It doesn't include all syntaxs here, if you'd like to know more, you can check [Code with Mosh](https://codewithmosh.com/), which I've learning from.<br/>
+It doesn't include all syntaxs here, but here notes some Python's features. If you'd like to know more, you can check [Code with Mosh](https://codewithmosh.com/), which I've learning from.<br/>
 There is also free resrouce from [W3school Python Tutorial](https://www.w3schools.com/python/).<br/>
 If you'd like to know the vocabulary about programming, please [check here](https://hackmd.io/@s4y0wTjhTAipbBv-m9yryg/rJTNZBXaH).
 
