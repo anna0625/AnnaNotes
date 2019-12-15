@@ -29,7 +29,7 @@ If you meet this on your terminal..
 * Please, commit your changes or stash them before you can merge.  
 Aborting
 
-Here is a solution that it would be helpful.
+Here is a solution that would be helpful.
 ```git
 % git stash
 % git pull
@@ -41,7 +41,7 @@ Here is a solution that it would be helpful.
 If you meet this on your terminal..
 * fatal: refusing to merge unrelated histories
 
-Here is a solution that it would be helpful.
+Here is a solution that would be helpful.
 ```git
 % git pull origin master --allow-unrelated-histories
 % git merge origin master --allow-unrelated-histories
