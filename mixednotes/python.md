@@ -19,11 +19,20 @@ There is also free resrouce from [W3school Python Tutorial](https://www.w3school
 If you'd like to know the vocabulary about programming, please [check here](https://hackmd.io/@s4y0wTjhTAipbBv-m9yryg/rJTNZBXaH).
 
 ### Categories
-* [Python Basic](#python-basic)
-  * [Arguments](#arguments)
-  * [Scope](#scope)
-* [Data Structures](#data-structures)
-* Exceptions
+- [<h2 id="python-notebook-3103">Python NoteBook</h2>](#h2-id%22python-notebook-3103%22python-notebookh2)
+  - [Categories](#categories)
+- [<h2 id="python-basic-2876">Python Basic</h2>](#h2-id%22python-basic-2876%22python-basich2)
+  - [Arguments](#arguments)
+  - [Scope](#scope)
+- [<h2 id="data-structures-3136">Data Structures</h2>](#h2-id%22data-structures-3136%22data-structuresh2)
+  - [List Unpacking](#list-unpacking)
+  - [Looping over Lists](#looping-over-lists)
+  - [Adding, Removing or Finding Items](#adding-removing-or-finding-items)
+  - [Sorting Lists](#sorting-lists)
+  - [Lambda Functions(expressions)](#lambda-functionsexpressions)
+  - [Map Function](#map-function)
+  - [Filter Function](#filter-function)
+  - [Coming Soon](#coming-soon)
 
 <br/>
 
@@ -194,7 +203,7 @@ if 'd' in letters:
 # NO OUTPUT
 ```
 
-### Sorting Items
+### Sorting Lists
 
 ```python
 numbers = [1, 2, 6, 5, 4]
