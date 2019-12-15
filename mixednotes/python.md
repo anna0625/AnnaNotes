@@ -19,12 +19,11 @@ There is also free resrouce from [W3school Python Tutorial](https://www.w3school
 If you'd like to know the vocabulary about programming, please [check here](https://hackmd.io/@s4y0wTjhTAipbBv-m9yryg/rJTNZBXaH).
 
 ### Categories
-- [<h2 id="python-notebook-3138">Python Notebook</h2>](#h2-id%22python-notebook-3138%22python-notebookh2)
-  - [Categories](#categories)
-- [<h2 id="python-basic-2913">Python Basic</h2>](#h2-id%22python-basic-2913%22python-basich2)
+
+- Python Basic
   - [Arguments](#arguments)
   - [Scope](#scope)
-- [<h2 id="data-structures-3173">Data Structures</h2>](#h2-id%22data-structures-3173%22data-structuresh2)
+- Data Structures
   - [List Unpacking](#list-unpacking)
   - [Looping over Lists](#looping-over-lists)
   - [Adding, Removing or Finding Items](#adding-removing-or-finding-items)
@@ -32,7 +31,7 @@ If you'd like to know the vocabulary about programming, please [check here](http
   - [Lambda Functions(expressions)](#lambda-functionsexpressions)
   - [Map Function](#map-function)
   - [Filter Function](#filter-function)
-  - [<font class="comingsoon">Coming Soon</font>](#font-class%22comingsoon%22coming-soonfont)
+  - [Coming Soon](#coming-soon)
 
 <br/>
 
@@ -302,4 +301,4 @@ print(filtered)
 #          ('product2', 50)]
 ```
 
-### <font class="comingsoon">Coming Soon</font>
+### Coming Soon 
