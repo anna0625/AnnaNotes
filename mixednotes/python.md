@@ -31,7 +31,7 @@ If you'd like to know the vocabulary about programming, please [check here](http
   - [Lambda Functions(expressions)](#lambda-functionsexpressions)
   - [Map Function](#map-function)
   - [Filter Function](#filter-function)
-  - [Coming Soon](#coming-soon)
+  - <font class="comingsoon"> Coming soon </font>
 
 <br/>
 
@@ -301,4 +301,4 @@ print(filtered)
 #          ('product2', 50)]
 ```
 
-### Coming Soon 
+### <font class="comingsoon">Coming Soon</font>
