@@ -30,7 +30,7 @@ If you meet this on your terminal..
 Aborting
 
 Here is a solution that would be helpful.
-```git
+```terminal
 % git stash
 % git pull
 % git stash pop
@@ -42,7 +42,7 @@ If you meet this on your terminal..
 * fatal: refusing to merge unrelated histories
 
 Here is a solution that would be helpful.
-```git
+```terminal
 % git pull origin master --allow-unrelated-histories
 % git merge origin master --allow-unrelated-histories
 ```
