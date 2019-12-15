@@ -48,8 +48,8 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 
 * ### Articles
     <font class="highlight2">Please be kind. Here's my personal point of views of different topics and books' reviews.</font>
-    
-    * Five Mins Reading
+
+    * Five Mins Reading (625 - 750 words)
       * <h4><font class="comingsoon">Coming Soon</font></h4>
     
 
