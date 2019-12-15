@@ -6,6 +6,6 @@ Hi there, here are my some notes about programming languages and other topics of
 ## Contents
 ---
 * Programming languages
-    * [Python Notebook](mixednotes/python.md)
+    * [Python Notebook](./python.md)
 * Others
-    * [Git Notebook](mixednotes/git.md)
+    * [Git Notebook](./git.md)
