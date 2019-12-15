@@ -14,7 +14,7 @@
 ---
 
 Stay here or [Go Back to Home Page](../index.md).<br/>
-It doesn't include all syntaxs here, but here notes some Python's features.<br/>If you'd like to know more, you can check [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh), which I've learning from.<br/>
+It doesn't include all syntaxs here, but here notes some Python's features.<br/>If you'd like to know more, you can check [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh), which I've learning from, and it's really helpful for me to get into Python from beginning.<br/>
 There is also free resrouce from [W3school Python Tutorial](https://www.w3schools.com/python/).<br/>
 If you'd like to know the vocabulary about programming, please [check here](https://hackmd.io/@s4y0wTjhTAipbBv-m9yryg/rJTNZBXaH).
 
@@ -36,8 +36,8 @@ If you'd like to know the vocabulary about programming, please [check here](http
 ```python
 def numbers(*list):
     print(list)
-# remember to space two lines
-# remember to space two lines
+# Space two lines.
+# Space two lines.
 numbers(2, 3, 4, 5)
 
 # OUTPUT : (2, 3, 4, 5) <- It's a tuple.
@@ -110,6 +110,188 @@ print(message)
 ### List
 * List Unpacking
 
+The lift number should be equal to the list.
 ```python
-print("hello world!")
+numbers = [1, 2, 3] # a list
+first, second, third = numbers
+print(first)
+
+# OUTPUT : 1
 ```
+This is wrong. It would be error with "too many values to unpack".
+```python
+numbers = [1, 2, 3]
+first, second = numbers
+
+# VALUEERROR!!
+```
+If there are many variables.. and we just want to care about the first and the second item.
+```python
+numbers = [1, 2, 3, 4, 4, ,4 , 5, 6]
+first, second, *other = numbers
+print(other)
+
+# Here we can get the first and the last item.
+first, *other, last = numbers 
+print(last)
+
+# OUTPUT : [3, 4, 4, 4, 5, 6] 
+#          6
+```
+
+* Looping over Lists
+
+```python
+letters = ['a', 'b', 'c']
+
+for index, letter in enumerate(letters): # letters became a tuple.
+    print(index, letter)
+
+# OUTPUT : 0 a  // index letter
+#          1 b
+#          2 c
+```
+
+* Adding, Removing or Finding Items
+
+Adding
+```python
+letters = ['a', 'b', 'c']
+
+letters.append('d')
+letters.insert(0, '-')
+print(letters)
+
+# OUTPUT : ['-', 'a', 'b', 'c', 'd']
+```
+Removing
+```python
+letters = ['-', 'a', 'b', 'c', 'd']
+
+letters.pop()
+print(letters)
+
+# OUTPUT : ['-', 'a', 'b', 'c']
+
+letters.pop(0)
+print(letters)
+
+# OUTPUT : ['a', 'b', 'c']
+
+letters.remove('b')
+del letters[0:3]
+letters.clear()
+```
+Finding
+```python
+letters = ['a', 'b', 'c']
+print(letters.count('d'))
+
+# OUTPUT : 0
+
+if 'd' in letters:
+    print(letters.index('d'))
+
+# NO OUTPUT
+```
+
+* Sorting Items
+
+```python
+numbers = [1, 2, 6, 5, 4]
+numbers.sort()
+# It returns a new list, not modify the original list.
+print(sorted(numbers))
+numbers.sort(reverse=True)
+print(sorted(numbers, reverse=True)
+```
+This is another way and it could be written in more beautiful way, please to check below this one.
+```python
+items = [
+    ('Product1', 10),
+    ('Product2', 50),
+    ('product3', 30)
+]
+
+# It doesn't work here.
+items.sort()
+
+# The solution
+def sort_item(item):
+    return item[1] # return value
+
+items.sort(key=sort_item)
+print(items)
+
+# OUTPUT : [('Product1', 10),
+#          ('Product3', 30),
+#          ('product2', 50)]
+```
+
+* Lambda Functions(expressions)
+
+Here is to optimize the last codes. We also have items.
+```python
+items = [
+    ('Product1', 10),
+    ('Product2', 50),
+    ('product3', 30)
+]
+
+# We don't need these.
+#def sort_item(item):
+#    return item[1] # return value
+
+#items.sort(key=lambda parameters=expression)
+items.sort(key=lambda item=item[1])
+print(items)
+
+# OUTPUT : [('Product1', 10),
+#          ('Product3', 30),
+#          ('product2', 50)]
+```
+
+* Map Function
+  
+How to make a list of the prices from products(items)?
+```python
+items = [
+    ('Product1', 10),
+    ('Product2', 50),
+    ('product3', 30)
+]
+
+# one of the ways
+prices = []
+for item in items:
+    prices.append(items[1])
+print(prices)
+
+# OUTPUT : [10, 50, 30]
+
+# another way
+map(lambda item:item[1], items) # It's a object.
+prices = list(map(lambda item:item[1], items))
+print(prices)
+
+# OUTPUT : [10, 50, 30]
+```
+
+* Filter Function
+
+How to get the product which price is greater than 10?
+```python
+items = [
+    ('Product1', 10),
+    ('Product2', 50),
+    ('product3', 30)
+]
+
+filtered = list(filter(lambda item:item[1] > 10, items))
+print(filtered)
+
+# OUTPUT : [('Product3', 30),
+#          ('product2', 50)]
+```
+
+* 
