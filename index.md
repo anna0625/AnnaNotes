@@ -26,9 +26,10 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 
 * ### MixedNotes
     <font class="highlight2">Obviously, they are notes.</font>
-
-    * [Python Notebook](mixednotes/python.md)
-    * [Git Notebook](mixednotes/git.md)
+    * Programming languages
+      * [Python Notebook](mixednotes/python.md)
+    * Others
+      * [Git Notebook](mixednotes/git.md)
 
 * ### Articles
     <font class="highlight2">Please be kind. Here's my personal point of views of different topics and books' reviews.</font>
