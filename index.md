@@ -24,22 +24,6 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 ## Contents
 ---
 
-* ### Mathematics
-    <font class="highlight2">Its references are from Khan Academy.</font>
-
-    * Linear Algebra
-      * Vectors and Space
-        - Vector dot and cross products
-          - Vector dot product and vector length
-          - Proving vector dot product properities
-
-* ### Algorithms
-    <font class="highlight2">Most of references are from the book called "grokking algorithms".</font>
-
-    * Search
-       * Binary Search
-       * Selection Search
-
 * ### MixedNotes
     <font class="highlight2">Obviously, they are notes.</font>
 
@@ -51,7 +35,22 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 
     * Five Mins Reading (625 - 750 words)
       * <h4><font class="comingsoon">Coming Soon</font></h4>
-    
+
+* ### Algorithms
+    <font class="highlight2">Most of references are from the book called "grokking algorithms".</font>
+
+    * Search
+       * Binary Search
+       * Selection Search
+
+* ### Mathematics
+    <font class="highlight2">Its references are from Khan Academy.</font>
+
+    * Linear Algebra
+      * Vectors and Space
+        - Vector dot and cross products
+          - Vector dot product and vector length
+          - Proving vector dot product properities
 
 <!--
 ### Python
