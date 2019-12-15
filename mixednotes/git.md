@@ -15,7 +15,7 @@
 
 Stay here or [Go Back to Home Page](../index.md).<br/>
 It includs some questions what you might meet and some solutions here.<br/>
-Here also will include some basic knowledge about how to do version control with github, and I will do my best to write notes faster. Please be paitent with me. Thank you!
+Here also will include some basic knowledge about how to do version control with github, and I will do my best to write notes faster. Please be patient with me. Thank you!
 
 <br/>
 
