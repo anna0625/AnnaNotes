@@ -17,6 +17,8 @@ Stay here or [Go Back to Home Page](../index.md).<br/>
 It includs some questions what you might meet and some solutions here.<br/>
 Here also will include some basic knowledge about how to do version control with github, and I will do my best to write notes faster. Please be paitent with me. Thank you!
 
+<br/>
+
 
 ## Questions and Solutions
 ---
@@ -26,6 +28,7 @@ Here also will include some basic knowledge about how to do version control with
 If you meet this on your terminal..
 * Please, commit your changes or stash them before you can merge.  
 Aborting
+
 Here is a solution that it would be helpful.
 ```git
 % git stash
@@ -37,6 +40,7 @@ Here is a solution that it would be helpful.
 
 If you meet this on your terminal..
 * fatal: refusing to merge unrelated histories
+
 Here is a solution that it would be helpful.
 ```git
 % git pull origin master --allow-unrelated-histories
