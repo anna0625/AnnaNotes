@@ -107,8 +107,7 @@ print(message)
 ## Data Structures
 ---
 
-### List
-* List Unpacking
+### List Unpacking
 
 The lift number should be equal to the list.
 ```python
@@ -139,7 +138,7 @@ print(last)
 #          6
 ```
 
-* Looping over Lists
+### Looping over Lists
 
 ```python
 letters = ['a', 'b', 'c']
@@ -152,7 +151,7 @@ for index, letter in enumerate(letters): # letters became a tuple.
 #          2 c
 ```
 
-* Adding, Removing or Finding Items
+### Adding, Removing or Finding Items
 
 Adding
 ```python
@@ -195,7 +194,7 @@ if 'd' in letters:
 # NO OUTPUT
 ```
 
-* Sorting Items
+### Sorting Items
 
 ```python
 numbers = [1, 2, 6, 5, 4]
@@ -228,7 +227,7 @@ print(items)
 #          ('product2', 50)]
 ```
 
-* Lambda Functions(expressions)
+### Lambda Functions(expressions)
 
 Here is to optimize the last codes. We also have items.
 ```python
@@ -251,7 +250,7 @@ print(items)
 #          ('product2', 50)]
 ```
 
-* Map Function
+### Map Function
   
 How to make a list of the prices from products(items)?
 ```python
@@ -277,7 +276,7 @@ print(prices)
 # OUTPUT : [10, 50, 30]
 ```
 
-* Filter Function
+### Filter Function
 
 How to get the product which price is greater than 10?
 ```python
@@ -294,4 +293,4 @@ print(filtered)
 #          ('product2', 50)]
 ```
 
-* 
+### Coming Soon 
