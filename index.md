@@ -25,28 +25,25 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 ---
 
 * ### MixedNotes
-    <font class="highlight2">Obviously, they are notes.</font>
+    <!--<font class="highlight2">Obviously, they are notes.</font>-->
     * Programming languages
       * [Python Notebook](mixednotes/python.md)
     * Others
       * [Git Notebook](mixednotes/git.md)
 
 * ### Articles
-    <font class="highlight2">Please be kind. Here's my personal point of views of different topics and books' reviews.</font>
-
+    <!--<font class="highlight2">Please be kind. Here's my personal point of views of different topics and books' reviews.</font>-->
     * Five Mins Reading (625 - 750 words)
       * <h4><font class="comingsoon">Coming Soon</font></h4>
 
 * ### Algorithms
-    <font class="highlight2">Most of references are from the book called "grokking algorithms".</font>
-
+    <!--<font class="highlight2">Most of references are from the book called "grokking algorithms".</font>-->
     * Search
        * Binary Search
        * Selection Search
 
 * ### Mathematics
-    <font class="highlight2">Its references are from Khan Academy.</font>
-
+    <!--<font class="highlight2">Its references are from Khan Academy.</font>-->
     * Linear Algebra
       * Vectors and Space
         - Vector dot and cross products
