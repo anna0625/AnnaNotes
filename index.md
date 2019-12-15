@@ -48,8 +48,9 @@ By the way, I am a college student, so <font class="highlight1">if there is anyt
 
 * ### Articles
     <font class="highlight2">Please be kind. Here's my personal point of views of different topics and books' reviews.</font>
-
-    * <h4><font class="comingsoon">Coming Soon</font></h4>
+    
+    * Five Mins Reading
+      * <h4><font class="comingsoon">Coming Soon</font></h4>
     
 
 <!--
