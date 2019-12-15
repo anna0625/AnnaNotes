@@ -17,7 +17,7 @@ Welcome to my notebook!
 
 Here will be posted some notes and articles about what I have been learning and you should know before starting your IT life.
 
-By the way, I am a college student, so <font class="highlight1">if there is anything wrong, please send me an email (</font><anna860625@gmail.com><font class="highlight1">) or leave a comment to let me know.</font> I would appreciate you so much! Thank you and welcome again!
+By the way, I am still learning of everything, so <font class="highlight1">if there is anything wrong, please send me an email (</font><anna860625@gmail.com><font class="highlight1">) or leave a comment to let me know.</font> I would appreciate you so much! Thank you and welcome again!
 
 <br/>
 
