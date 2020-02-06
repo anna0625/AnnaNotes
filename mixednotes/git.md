@@ -20,10 +20,10 @@ Here also will include some basic knowledge about how to do version control with
 <br/>
 
 
-## Problemss and Solutions
+## Problems and Solutions
 ---
 
-### Problems 1
+### Problem 1
 
 If you meet this on your terminal..
 * Please, commit your changes or stash them before you can merge.  
@@ -36,7 +36,7 @@ Here is a solution that would be helpful.
 % git stash pop
 ```
 
-### Problems 2
+### Problem 2
 
 If you meet this on your terminal..
 * fatal: refusing to merge unrelated histories
