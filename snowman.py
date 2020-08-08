@@ -1,7 +1,7 @@
 import turtle 
 import random 
 import time 
-import Tkinter
+import tkinter
  
 width = height = 500 
  
