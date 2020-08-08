@@ -1,5 +1,5 @@
 import turtle
-#import tkinter
+import tkinter
 
 WIDTH = 15
 BRANCH_LENGTH = 120
