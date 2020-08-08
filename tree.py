@@ -5,6 +5,7 @@ WIDTH = 15
 BRANCH_LENGTH = 120
 ROTATION_LENGTH = 27
 
+# below has some bugs.
 
 class Tree_Fractal(turtle.Turtle):
     def __init__(self, level):
