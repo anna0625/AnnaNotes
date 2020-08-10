@@ -15,41 +15,40 @@
 
 Welcome to my notebook!
 
-Here will be posted some notes and articles about what I have been learning and you should know before starting your IT life.
+Here will be posted some notes about what I have been learning in lectures or extra studies.
 
-By the way, I am still learning of everything, so <font class="highlight1">if there is anything wrong, please send me an email (</font><anna860625@gmail.com><font class="highlight1">) or leave a comment to let me know.</font> I would appreciate you so much! Thank you and welcome again!
+I am a Master of IT student in University of Melbourne. If you are interested in something I am doing, welcome to contact with me (</font><anna860625@gmail.com><font class="highlight1">) . Or if you see something wrong of the contents, please let me know. I must appreciate you so much!
 
 <br/>
 
 ## Contents
 ---
 
-* ### MixedNotes
+* ### Notes
     <!--<font class="highlight2">Obviously, they are notes.</font>-->
     * Programming languages
       * [Python Notebook](mixednotes/python.md)
     * Others
       * [Git Notebook](mixednotes/git.md)
 
+<!--
 * ### Articles
-    <!--<font class="highlight2">Please be kind. Here's my personal point of views of different topics and books' reviews.</font>-->
     * Five Mins Reading (625 - 750 words)
       * <h4><font class="comingsoon">Coming Soon</font></h4>
+-->
+* ### S2 2020
+    * Algorithms and Complexity COMP90038
+    * Database Systems & Information Modelling INFO90002
+    * Internet Technologies COMP90007
 
-* ### Algorithms
-    <!--<font class="highlight2">Most of references are from the book called "grokking algorithms".</font>-->
-    * Search
-       * Binary Search
-       * Selection Search
-
+<!--
 * ### Mathematics
-    <!--<font class="highlight2">Its references are from Khan Academy.</font>-->
     * Linear Algebra
       * Vectors and Space
         - Vector dot and cross products
           - Vector dot product and vector length
           - Proving vector dot product properities
-
+-->
 <!--
 ### Python
 
