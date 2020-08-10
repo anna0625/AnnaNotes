@@ -41,7 +41,7 @@ I am a Master of IT student in University of Melbourne. If you are interested in
     * [Database Systems & Information Modelling INFO90002](https://github.com/anna0625/Database)
     * [Internet Technologies COMP90007](https://github.com/anna0625/Internet)
 
-    <font class="highlight2">Some notes might only work on <a herf="https://typora.io/">Typora.</a></font>
+    <font class="highlight2">Some notes might only work on <a href="https://typora.io/">Typora.</a></font>
 
 <!--
 * ### Mathematics
