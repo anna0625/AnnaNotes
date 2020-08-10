@@ -37,10 +37,11 @@ I am a Master of IT student in University of Melbourne. If you are interested in
       * <h4><font class="comingsoon">Coming Soon</font></h4>
 -->
 * ### S2 2020
-    <font class="highlight2">Some notes might only work on <a herf="https://typora.io/">Typora</a></font><br/>
     * [Algorithms and Complexity COMP90038](https://github.com/anna0625/Algorithms)
     * [Database Systems & Information Modelling INFO90002](https://github.com/anna0625/Database)
     * [Internet Technologies COMP90007](https://github.com/anna0625/Internet)
+    
+    <font class="highlight2">Some notes might only work on <a herf="https://typora.io/">Typora.</a></font>
 
 <!--
 * ### Mathematics
