@@ -17,7 +17,7 @@ Welcome to my notebook!
 
 Here will be posted some notes about what I have been learning in lectures or extra studies.
 
-I am a Master of IT student in University of Melbourne. If you are interested in something I am doing, welcome to contact with me (</font><anna860625@gmail.com><font class="highlight1">) . Or if you see something wrong of the contents, please let me know. I must appreciate you so much!
+I am a Master of IT student in University of Melbourne. If you are interested in something I am doing, welcome to contact with me (<anna860625@gmail.com>) . Or if you see something wrong of the contents, please let me know. I must appreciate you so much!
 
 <br/>
 
@@ -37,7 +37,7 @@ I am a Master of IT student in University of Melbourne. If you are interested in
       * <h4><font class="comingsoon">Coming Soon</font></h4>
 -->
 * ### S2 2020
-    <font class="highlight2">Some notes might only work on [Typora](https://typora.io/).</font>
+    <font class="highlight2">Some notes might only work on </font>[Typora](https://typora.io/).<br/>
     * [Algorithms and Complexity COMP90038](https://github.com/anna0625/Algorithms)
     * [Database Systems & Information Modelling INFO90002](https://github.com/anna0625/Database)
     * [Internet Technologies COMP90007](https://github.com/anna0625/Internet)
