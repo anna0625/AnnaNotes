@@ -37,9 +37,10 @@ I am a Master of IT student in University of Melbourne. If you are interested in
       * <h4><font class="comingsoon">Coming Soon</font></h4>
 -->
 * ### S2 2020
-    * Algorithms and Complexity COMP90038
-    * Database Systems & Information Modelling INFO90002
-    * Internet Technologies COMP90007
+    <font class="highlight2">Some notes might only work on [Typora](https://typora.io/).</font>
+    * [Algorithms and Complexity COMP90038](https://github.com/anna0625/Algorithms)
+    * [Database Systems & Information Modelling INFO90002](https://github.com/anna0625/Database)
+    * [Internet Technologies COMP90007](https://github.com/anna0625/Internet)
 
 <!--
 * ### Mathematics
